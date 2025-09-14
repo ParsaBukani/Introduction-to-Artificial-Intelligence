@@ -1,6 +1,7 @@
 ﻿
 <p align="center">
-  
+
+  <img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/5796f946-477d-4416-ba2c-216e1407d5a2" />
 
 </p>
 
@@ -26,12 +27,12 @@ The projects cover a broad range of **classical AI techniques**, including:
 
 | CA | Project Title | Link |
 |----|---------------|------|
-| **CA1** | Chaos Warehouse — Informed & Uninformed Search | [View](https://github.com/ParsaBukani/Intro-to-Artificial-Intelligence/tree/main/CA1) |
-| **CA2** | Genetic Algorithm — Fourier Series Approximation | [View](https://github.com/ParsaBukani/Intro-to-Artificial-Intelligence/tree/main/CA2/Genetic%20Algorithm) |
-|       | Pentago — Minimax Game AI | [View](https://github.com/ParsaBukani/Intro-to-Artificial-Intelligence/tree/main/CA2/Pentago) |
-| **CA3** | Student Grade Prediction — Machine Learning Models | [View](https://github.com/ParsaBukani/Intro-to-Artificial-Intelligence/tree/main/CA3) |
-| **CA4** | Image Classification — Fully Connected vs. CNN (PyTorch, CIFAR-10) | [View](https://github.com/ParsaBukani/Intro-to-Artificial-Intelligence/tree/main/CA4) |
-| **CA5** | Song Lyrics Clustering — Unsupervised Learning | [View](https://github.com/ParsaBukani/Intro-to-Artificial-Intelligence/tree/main/CA5) |
+| **CA1** | Informed & Uninformed Search - Chaos Warehouse | [View](https://github.com/ParsaBukani/Intro-to-Artificial-Intelligence/tree/main/CA1) |
+| **CA2** | Genetic Algorithm - Fourier Series Approximation | [View](https://github.com/ParsaBukani/Intro-to-Artificial-Intelligence/tree/main/CA2/Genetic%20Algorithm) |
+|       | Minimax algorithm - Pentago Game | [View](https://github.com/ParsaBukani/Intro-to-Artificial-Intelligence/tree/main/CA2/Pentago) |
+| **CA3** | ML Classification - Student Grade Prediction | [View](https://github.com/ParsaBukani/Intro-to-Artificial-Intelligence/tree/main/CA3) |
+| **CA4** | Image Classification with Neural Networks - CNN vs FCN | [View](https://github.com/ParsaBukani/Intro-to-Artificial-Intelligence/tree/main/CA4) |
+| **CA5** | Unsupervised Learning - Song Lyrics Clustering | [View](https://github.com/ParsaBukani/Intro-to-Artificial-Intelligence/tree/main/CA5) |
 
 ## License
 
