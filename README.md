@@ -27,12 +27,12 @@ The projects cover a broad range of **classical AI techniques**, including:
 
 | CA | Project Title | Link |
 |----|---------------|------|
-| **CA1** | Informed & Uninformed Search - Chaos Warehouse | [View](https://github.com/ParsaBukani/Intro-to-Artificial-Intelligence/tree/main/CA1) |
-| **CA2** | Genetic Algorithm - Fourier Series Approximation | [View](https://github.com/ParsaBukani/Intro-to-Artificial-Intelligence/tree/main/CA2/Genetic%20Algorithm) |
-|       | Minimax algorithm - Pentago Game | [View](https://github.com/ParsaBukani/Intro-to-Artificial-Intelligence/tree/main/CA2/Pentago) |
-| **CA3** | ML Classification - Student Grade Prediction | [View](https://github.com/ParsaBukani/Intro-to-Artificial-Intelligence/tree/main/CA3) |
-| **CA4** | Image Classification with Neural Networks - CNN vs FCN | [View](https://github.com/ParsaBukani/Intro-to-Artificial-Intelligence/tree/main/CA4) |
-| **CA5** | Unsupervised Learning - Song Lyrics Clustering | [View](https://github.com/ParsaBukani/Intro-to-Artificial-Intelligence/tree/main/CA5) |
+| **CA1** | Informed & Uninformed Search - Chaos Warehouse | [View](https://github.com/ParsaBukani/Introduction-to-Artificial-Intelligence/tree/main/Informed%20%26%20Uninformed%20Search%20-%20Chaos%20Warehouse) |
+| **CA2** | Genetic Algorithm - Fourier Series Approximation | [View](https://github.com/ParsaBukani/Introduction-to-Artificial-Intelligence/tree/main/Genetic%20Algorithm%20-%20Fourier%20Series%20Approximation) |
+|       | Minimax algorithm - Pentago Game | [View](https://github.com/ParsaBukani/Introduction-to-Artificial-Intelligence/tree/main/Minimax%20algorithm%20-%20Pentago%20Game) |
+| **CA3** | ML Classification - Student Grade Prediction | [View](https://github.com/ParsaBukani/Introduction-to-Artificial-Intelligence/tree/main/ML%20Classification%20-%20Student%20Grade%20Prediction) |
+| **CA4** | Image Classification with Neural Networks - CNN vs FCN | [View](https://github.com/ParsaBukani/Introduction-to-Artificial-Intelligence/tree/main/Image%20Classification%20with%20Neural%20Networks%20-%20CNN%20vs%20FCN) |
+| **CA5** | Unsupervised Learning - Song Lyrics Clustering | [View](https://github.com/ParsaBukani/Introduction-to-Artificial-Intelligence/tree/main/Unsupervised%20Learning%20-%20Song%20Lyrics%20Clustering) |
 
 ## License
 
